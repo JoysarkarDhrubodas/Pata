@@ -95,4 +95,8 @@ Developed by **Joy Sarkar**.
 
 ## About
 
-Pata is made by **Joy Sarkar**. The source code is not published here; this page is only for downloading the app. Pata includes PDF.js (Apache License 2.0), pdf-lib (MIT) and Electron (MIT) under their own licenses, copied into each build's `LICENSES` folder.
+Pata is made by **Joy Sarkar**. The source code is not published here; this page is only for downloading the app.
+
+## License
+
+[MIT](LICENSE), Copyright (c) 2026 Joy Sarkar. Pata includes PDF.js (Apache License 2.0), pdf-lib (MIT) and Electron (MIT) under their own licenses, copied into each build's `LICENSES` folder.
