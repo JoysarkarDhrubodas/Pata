@@ -15,7 +15,7 @@
   &nbsp;·&nbsp; <a href="#বাংলায়">বাংলায় পড়ুন</a>
 </p>
 
-<p align="center">Developed by <b>Joy Sarkar</b></p>
+<p align="center">Developed by <b>Joy Sarkar &amp; Dhrubo Das</b></p>
 
 ---
 
@@ -91,12 +91,12 @@ Pata is built on Mozilla's [PDF.js](https://github.com/mozilla/pdf.js) (drawing 
 
 **Mac-এ:** zip খুলে **Pata.app** Applications-এ রাখো। প্রথমবার আটকালে **System Settings → Privacy & Security → Open Anyway**।
 
-Developed by **Joy Sarkar**.
+Developed by **Joy Sarkar & Dhrubo Das**.
 
 ## About
 
-Pata is made by **Joy Sarkar**. The source code is not published here; this page is only for downloading the app.
+Pata is made by **Joy Sarkar and Dhrubo Das**. The source code is not published here; this page is only for downloading the app.
 
 ## License
 
-[MIT](LICENSE), Copyright (c) 2026 Joy Sarkar. Pata includes PDF.js (Apache License 2.0), pdf-lib (MIT) and Electron (MIT) under their own licenses, copied into each build's `LICENSES` folder.
+[MIT](LICENSE), Copyright (c) 2026 Joy Sarkar and Dhrubo Das. Pata includes PDF.js (Apache License 2.0), pdf-lib (MIT) and Electron (MIT) under their own licenses, copied into each build's `LICENSES` folder.
