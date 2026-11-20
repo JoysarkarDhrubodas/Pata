@@ -6,7 +6,7 @@
 
 <p align="center">
   A free PDF reader and annotator for <b>Windows, Mac and Android</b>.<br>
-  Fast, smooth reading; highlight, write, draw, sign and add pictures; move pages around. No ads, no account, and your files never leave your device.
+  Fast, smooth reading; highlight, write, draw, sign and add pictures; move pages around; merge PDFs and turn pictures into a PDF. No ads, no account, and your files never leave your device.
 </p>
 
 <p align="center">
@@ -46,6 +46,7 @@ Not sure which Mac you have? Apple menu → **About This Mac**: "Chip: Apple M�
 - **Reading:** smooth scrolling and pinch-to-zoom (also on a slow phone), page thumbnails, table of contents, find, fit to width or page, night and sepia page colours, presentation mode, and "Continue reading" where you left off
 - **Marking up:** highlighter in five colours, text notes, pen drawing, pictures, and your own signature drawn with a finger or mouse; Undo and Redo always in reach
 - **Pages:** drag thumbnails to reorder pages, add blank pages or pages from another PDF, rotate, and **add space beside a page** (left, right or both) for your own notes
+- **Merge and convert:** **merge several PDFs** into one, or turn **photos and images into a PDF** (choose the order, page size, margin and "smaller file"); phone photos that were taken sideways come out upright
 - **Many PDFs at once:** each opens as a tab in the same window (native tabs on a Mac)
 - **Safe saving:** Auto-save can be turned on or off; asks before leaving changes behind; opens password-protected PDFs
 - **On Android:** opens PDFs from any app ("Open with" or "Share" → Pata), print and share, back button that does what you expect; the app never asks for access to all of your storage
@@ -81,7 +82,7 @@ Pata is built on Mozilla's [PDF.js](https://github.com/mozilla/pdf.js) (drawing 
 
 ## বাংলায়
 
-**Pata (পাতা)** একটা ফ্রি, বিজ্ঞাপনহীন PDF reader: Windows, Mac আর Android ফোনে চলে। দ্রুত scroll আর মসৃণ zoom, highlight, লেখা, আঁকা, সই, ছবি বসানো, পাতা সাজানো, আর পাতার পাশে নোট লেখার জায়গা বাড়ানো যায়। কোনো account লাগে না, আপনার ফাইল ডিভাইসের বাইরে যায় না।
+**Pata (পাতা)** একটা ফ্রি, বিজ্ঞাপনহীন PDF reader: Windows, Mac আর Android ফোনে চলে। দ্রুত scroll আর মসৃণ zoom, highlight, লেখা, আঁকা, সই, ছবি বসানো, পাতা সাজানো, আর পাতার পাশে নোট লেখার জায়গা বাড়ানো যায়। একাধিক PDF জোড়া লাগিয়ে একটা করা (Merge) আর ছবি থেকে PDF বানানোও যায়। কোনো account লাগে না, আপনার ফাইল ডিভাইসের বাইরে যায় না।
 
 **নামাতে:** উপরের [Releases page](../../releases/latest)-এ যাও। Android ফোনে `Pata-android.apk`, Windows-এ `Pata-windows-x64.zip`, নতুন Mac-এ `Pata-mac-arm64.zip` নাও।
 
